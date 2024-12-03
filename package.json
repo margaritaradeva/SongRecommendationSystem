@@ -9,8 +9,9 @@
   "ios": "expo start --ios",
   "web": "expo start --web",
   "lint": "expo lint",
-  "build": "expo export:web --dump-sourcemap"  
+  "build": "expo export"  
 },
+
 
 
   "jest": {
